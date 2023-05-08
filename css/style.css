@@ -1362,4 +1362,8 @@ input[type="text"] {
   text-decoration: none;
   color: rgb(255,144,0);
 }
+.header-link:hover
+{
+  color: rgba(255, 145, 0, 0.349);
+}
 
